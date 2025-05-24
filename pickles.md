@@ -10,10 +10,6 @@ Use dedicated pickling Cucumbers
 
 ## Experiments
 
-**Pickles with Szechuan and Chili flakes**
-Tasty
-
-**Pickles with Szechuan and Chipotle**
-The smokey Flavour is not great
-
-~~~~
+- :heavy_check_mark: **Szechuan and Chili flakes:** Very Tasty
+- :x: **Szechuan and Chipotle:** The smokey Flavour is not great
+- :x: **Szechuan and dried Chili:** Less smokey but still not great
