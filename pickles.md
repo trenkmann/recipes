@@ -13,4 +13,4 @@ Use dedicated pickling Cucumbers
 - :heavy_check_mark: **Szechuan and Chili flakes:** Very Tasty
 - :x: **Szechuan and Chipotle:** The smokey Flavour is not great
 - :x: **Szechuan and dried Chili:** Less smokey but still not great
-- :heavy_check_mark: **Lemon and "krumme Gurke", I think I used twice as much sugar as salt + Lemon juice instead of half the vinegar 
+- :heavy_check_mark: **Lemon and "krumme Gurke"**, I think I used twice as much sugar as salt + Lemon juice instead of half the vinegar 
