@@ -73,16 +73,14 @@ Oxygen ---- +
 
 ## Usual Stuff
 
-ca. 65% - 80% Hydration
-
-ca. 3/4 White Flower
-ca. 1/4 Whole Weat Flower
-
-12:00 Refresh Dough
-16:00 Mix Ingredients
-Every 30 Min: Fold Dough
-20:00 Let Dough Rest
-10:00: Bake (14h Fridge Rest)
+- ca. 65% - 80% Hydration
+- ca. 3/4 White Flower
+- ca. 1/4 Whole Weat Flower
+- 12:00 Refresh Dough
+- 16:00 Mix Ingredients
+- Every 30 Min: Fold Dough
+- 20:00 Let Dough Rest
+- 10:00: Bake (14h Fridge Rest)
 
 
 # Tests 
