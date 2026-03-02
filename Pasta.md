@@ -1,6 +1,8 @@
-# Summer Zuchini Pasta
+# Pasta
 
-## for 1
+## Summer Zuchini Pasta
+
+### for 1
 - 1 Zuchini
 - 1 Lemon
 - 1/2 onion
@@ -14,7 +16,7 @@
 - prepare 3cm^2 of lemon zest
 - prepare garlic for grating
 
-## instructions 
+### instructions 
 - sautee onions
 - add Zuchini
 - add zest
