@@ -2,11 +2,13 @@
 
 ## Charred Tomato Salsa
 
-500g Tomatoes
+500g uncut Tomatoes
 5 garlic gloves
 char em.
 
-add handful of basil
+cool em
+
+handful of basil
 quick blend 
 add lime and salt to taste
 
