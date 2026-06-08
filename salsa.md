@@ -6,10 +6,7 @@
 5 garlic gloves
 char em.
 
-handful of basil
-charred garlic
-into the mortar
-
-mix
+add handful of basil
+quick blend 
 add lime and salt to taste
 
