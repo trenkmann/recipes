@@ -18,3 +18,24 @@
 - Chocolate Stout
 - Coffee
 - Broth
+
+## Vegan Chili sin carne
+
+### Sautee
+- Onions
+- Paprika
+- Garlic
+
+### Aromatics
+- Mixed dried and smoked Chili powder
+- Mexican Spices
+- Tomato Paste
+- Paprika Powder
+- Lentils
+
+### Wet
+- Wine
+- Black Beans + Juice
+- Coffee
+- Chocolate
+- Butter
