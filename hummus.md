@@ -2,7 +2,7 @@
 
 - 250g cooked chickpeas
 - 40g tahini
-- 40g lemon juice (around 1 small lemon)
+- 35g lemon juice (around 1 small lemon)
 - 1 small garlic glove
 
 - Soak chickpeas for 12h
