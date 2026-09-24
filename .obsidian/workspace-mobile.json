@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "broth.md",
+                "file": "curries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "broth"
+              "title": "curries"
             }
           }
         ]
@@ -174,8 +174,8 @@
   "active": "1b5085200c289e25",
   "lastOpenFiles": [
     "broth.md",
-    "README.md",
     "curries.md",
+    "README.md",
     "curry.md"
   ]
 }
