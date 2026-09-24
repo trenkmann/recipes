@@ -1,5 +1,6 @@
 # Ignore volatile UI-related state
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 .obsidian/app.json
 
 # Ignore system and editor files
