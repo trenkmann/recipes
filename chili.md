@@ -6,7 +6,6 @@
 - Ground Beef 
 - Onions
 - Garlic
-
 ### Aromatic:
 - Mixed dried and smoked Chili powder
 - Mexican Spices
@@ -18,6 +17,10 @@
 - Chocolate Stout
 - Coffee
 - Broth
+
+### Optional 
+- beans
+- corn
 
 ## Vegan Chili sin carne
 
